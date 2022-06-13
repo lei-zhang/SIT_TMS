@@ -3,6 +3,8 @@
 
 Code and data for the **social influence task (SIT)** with under brain stimulation, accompanying the paper: 
 
+**Zhang, L., Kandil, F.I., Zhao, K., Fu, X., Lamm, C., Hilgetag, C.C., & Gläscher, J. (2022). A causal role of the human left temporoparietal junction in computing social influence during goal-directed learning** *bioRxiv*,  <br />
+[DOI:]
 
 ___
 
@@ -20,14 +22,8 @@ root
 
 **Note 1**: to properly run all scripts, you may need to set the root of this repository as your working directory. <br />
 **Note 2**: to properly run all modeling analyses, you may need to install the [{RStan} package](https://mc-stan.org/users/interfaces/rstan.html) in R. <br />
-**Note 3**: to reproduce the Matlab figures, you may need the [NaN Suite](https://www.mathworks.com/matlabcentral/fileexchange/6837-nan-suite), the [color brewer](https://www.mathworks.com/matlabcentral/fileexchange/34087-cbrewer-colorbrewer-schemes-for-matlab) toolbox, the [niceGroupPlot kit](https://github.com/BeckyLawson/niceGroupPlot), and the [offsetAxes](https://github.com/anne-urai/Tools/blob/master/plotting/offsetAxes.m) function. 
+
 ___
-
-## Behavioral analyses
-(under construction)
-
-## Computational modeling
-(under construction)
 
 ___
 
